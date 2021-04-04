@@ -1,0 +1,58 @@
+﻿l_english:
+ aar_belohnung:0 "AAR Reward"
+
+ sp_entscheidung_title: "Punishments"
+ sp_entscheidung_desc: "Unlimited Power!"
+
+ sonntag_mp.1_menu: "Punishments"
+ sonntag_mp.1_menu_desc: "They deserve it!"
+
+ sonntag_mp.52: "Punishment Menu"
+ sonntag_mp.53: "The selected country will be punished! (-1 Stab, -0.3 yearly income, -10 prestige)"
+
+ sp_belohnung_1_title: "Punctuality Rewards"
+ sp_belohnung_1_desc: "The carrot and the stick."
+
+ sonntag_mp.2_menu: "Punctuality Rewards"
+ sonntag_mp.2_menu_desc: "They've earned it! 1"
+
+ sonntag_mp.54: "Punctuality Reward Menu"
+ sonntag_mp.55: "The selected country will receive the reward for their punctuality."
+
+ sp_belohnung_2_title: "AAR Rewards"
+ sp_belohnung_2_desc: "For the writers and poets out there."
+
+ sonntag_mp.3_menu: "AAR Rewards"
+ sonntag_mp.3_menu_desc: "They've earned it! 1"
+
+ sonntag_mp.56: "AAR Reward Menu"
+ sonntag_mp.57: "The selected country will receive the reward for their activity in the AAR-section."
+
+ sonntag_mp.112: "Bankruptcy is no solution! (1x)"
+ sonntag_mp.113: "Punctuality will be rewarded."
+ sonntag_mp.11: "Great!"
+
+ sonntag_mp.122: "AAR-Reward"
+ sonntag_mp.123: "Rewards for our loyal forum authors!"
+ sonntag_mp.12: "Great!"
+
+ sonntag_mp.152: "Punishment!"
+ sonntag_mp.153: "You went almost bankrupt. Whatever it is, that you have done,don't do it again!"
+ sonntag_mp.15: "I am sorry!"
+
+ sonntag_mp.60: "No Rewards."
+ sonntag_mp.61: "Have fun, hobos!"
+ sonntag_mp.62: "Reward Menu"
+ sonntag_mp.63: "All countries defined in the event get the reward that they have earned."
+ sonntag_mp.50: "No Punishment."
+ sonntag_mp.51: "No Reward."
+
+ sonntag_mp.21: "Orden der heiligen Gans"
+ sonntag_mp.22: "Warängir"
+ sonntag_mp.23: "Homerion"
+ sonntag_mp.24: "Mordor"
+ sonntag_mp.25: "Nilfgaard"
+ sonntag_mp.26: "Sebulonia"
+ sonntag_mp.27: "Allemannia"
+ sonntag_mp.28: "Beira"
+ sonntag_mp.29: "Malopolska"

@@ -1,0 +1,248 @@
+##########################################
+#### Willkommen zu den tollen Events des Sonntags-MP!
+##########################################
+
+namespace = sonntag_mp
+
+##########################################
+#### Strafmenü
+##########################################
+
+country_event = {
+
+	id = sonntag_mp.1
+	title = sonntag_mp.52
+	desc = sonntag_mp.53
+	picture = POPE_PREACHING_eventPicture
+
+	is_triggered_only = yes
+
+	option = { #Orden der heiligen Gans
+		name = "sonntag_mp.21"
+			D00 = {	country_event = { id = sonntag_mp.151 }	}
+			}
+	option = { #Warängir
+		name = "sonntag_mp.22"
+			D01 = {	country_event = { id = sonntag_mp.151 }	}
+			}
+	option = { #Homerion
+		name = "sonntag_mp.23"
+			D02 = {	country_event = { id = sonntag_mp.151 }	}
+			}
+	option = { #Mordor
+		name = "sonntag_mp.24"
+			D03 = {	country_event = { id = sonntag_mp.151 }	}
+			}
+	option = { #Nilfgaard
+		name = "sonntag_mp.25"
+			D04 = {	country_event = { id = sonntag_mp.151 }	}
+			}
+	option = { #Sebulonia
+		name = "sonntag_mp.26"
+			D06 = {	country_event = { id = sonntag_mp.151 }	}
+			}
+	option = { #Allemannia
+		name = "sonntag_mp.27"
+			D07 = {	country_event = { id = sonntag_mp.151 }	}
+			}
+	option = { #Beira
+		name = "sonntag_mp.28"
+			D08 = {	country_event = { id = sonntag_mp.151 }	}
+			}
+	option = { #Malopolska
+		name = "sonntag_mp.29"
+			MPK = {	country_event = { id = sonntag_mp.151 }	}
+			}
+		option = {
+		name = "sonntag_mp.50"
+		}
+}
+
+##########################################
+#### Einfache Belohnung
+##########################################
+
+country_event = {
+
+	id = sonntag_mp.2
+	title = sonntag_mp.54
+	desc = sonntag_mp.55
+	picture = POPE_PREACHING_eventPicture
+	is_triggered_only = yes
+
+	option = { #Orden der heiligen Gans
+		name = "sonntag_mp.21"
+			D00 = {	country_event = { id = sonntag_mp.111 }	}
+			}
+	option = { #Warängir
+		name = "sonntag_mp.22"
+			D01 = {	country_event = { id = sonntag_mp.111 }	}
+			}
+	option = { #Homerion
+		name = "sonntag_mp.23"
+			D02 = {	country_event = { id = sonntag_mp.111 }	}
+			}
+	option = { #Mordor
+		name = "sonntag_mp.24"
+			D03 = {	country_event = { id = sonntag_mp.111 }	}
+			}
+	option = { #Nilfgaard
+		name = "sonntag_mp.25"
+			D04 = {	country_event = { id = sonntag_mp.111 }	}
+			}
+	option = { #Sebulonia
+		name = "sonntag_mp.26"
+			D06 = {	country_event = { id = sonntag_mp.111 }	}
+			}
+	option = { #Allemannia
+		name = "sonntag_mp.27"
+			D07 = {	country_event = { id = sonntag_mp.111 }	}
+			}
+	option = { #Beira
+		name = "sonntag_mp.28"
+			D08 = {	country_event = { id = sonntag_mp.111 }	}
+			}
+	option = { #Malopolska
+		name = "sonntag_mp.29"
+			MPK = {	country_event = { id = sonntag_mp.111 }	}
+			}
+	option = {
+		name = "sonntag_mp.51"
+		}
+	}
+
+country_event = {
+
+	id = sonntag_mp.3
+	title = sonntag_mp.56
+	desc = sonntag_mp.57
+	picture = POPE_PREACHING_eventPicture
+	is_triggered_only = yes
+
+	option = { #Orden der heiligen Gans
+		name = "sonntag_mp.21"
+			D00 = {	country_event = { id = sonntag_mp.121 }	}
+			}
+	option = { #Warängir
+		name = "sonntag_mp.22"
+			D01 = {	country_event = { id = sonntag_mp.121 }	}
+			}
+	option = { #Homerion
+		name = "sonntag_mp.23"
+			D02 = {	country_event = { id = sonntag_mp.121 }	}
+			}
+	option = { #Mordor
+		name = "sonntag_mp.24"
+			D03 = {	country_event = { id = sonntag_mp.121 }	}
+			}
+	option = { #Nilfgaard
+		name = "sonntag_mp.25"
+			D04 = {	country_event = { id = sonntag_mp.121 }	}
+			}
+	option = { #Sebulonia
+		name = "sonntag_mp.26"
+			D06 = {	country_event = { id = sonntag_mp.121 }	}
+			}
+	option = { #Allemannia
+		name = "sonntag_mp.27"
+			D07 = {	country_event = { id = sonntag_mp.121 }	}
+			}
+	option = { #Beira
+		name = "sonntag_mp.28"
+			D08 = {	country_event = { id = sonntag_mp.121 }	}
+			}
+	option = { #Malopolska
+		name = "sonntag_mp.29"
+			MPK = {	country_event = { id = sonntag_mp.121 }	}
+			}
+	option = {
+		name = "sonntag_mp.51"
+		}
+	}
+##########################################
+#### Strafen & Belohnungen
+##########################################
+
+country_event = {
+
+	id = sonntag_mp.111 #Pünktlichkeitsbelohnung
+	title = sonntag_mp.112
+	desc = sonntag_mp.113
+	picture = POPE_PREACHING_eventPicture
+
+	is_triggered_only = yes
+
+	option = {
+		name = "sonntag_mp.11"
+		add_prestige = 20
+		if = {
+			limit = {
+				current_age = age_of_discovery
+			}
+		add_treasury = 100
+		}
+		if = {
+			limit = {
+				current_age = age_of_reformation
+			}
+		add_treasury = 250
+		}
+		if = {
+			limit = {
+				current_age = age_of_absolutism
+			}
+		add_treasury = 400
+		}
+		if = {
+			limit = {
+				current_age = age_of_revolutions
+			}
+		add_treasury = 550
+		}
+		add_splendor = 200
+		add_mil_power = 30
+		add_adm_power = 30
+		add_dip_power = 30
+		change_innovativeness = 0.5
+		}
+
+	}
+
+country_event = {
+
+	id = sonntag_mp.121 #AAR-Belohnung
+	title = sonntag_mp.122
+	desc = sonntag_mp.123
+	picture = POPE_PREACHING_eventPicture
+
+	is_triggered_only = yes
+
+	option = {
+		name = "sonntag_mp.12"
+		add_country_modifier = {
+			name = "aar_belohnung"
+			duration = 3650
+			}
+	}
+}
+
+country_event = {
+
+	id = sonntag_mp.151 #Bestrafung
+	title = sonntag_mp.152
+	desc = sonntag_mp.153
+	picture = POPE_PREACHING_eventPicture
+
+	is_triggered_only = yes
+
+	option = {
+		name = "sonntag_mp.15"
+		add_stability = -1
+		add_prestige = -20
+		add_years_of_income = -0.30
+		add_mil_power = -50
+		add_adm_power = -50
+		add_dip_power = -50
+		}
+
+	}

@@ -1,0 +1,79 @@
+###################################################
+##### Sonntag Mod Decisions by Dynamite & Declaminius
+###################################################
+
+
+country_decisions = {
+
+## Spielleitermenu
+	sp_entscheidung = {
+		potential = {
+			OR = {
+				tag = D03
+			}
+		}
+		allow = {
+
+			ai = no
+		}
+		effect = {
+
+			country_event = { id = sonntag_mp.1 }
+			name = "sonntag_mp.1_menu"
+			desc = "sonntag_mp.1_menu_desc"
+		}
+
+		ai_will_do = {
+
+			factor = 0
+		}
+	}
+
+## Pünktlichkeits-Belohnungsmenu
+	sp_belohnung_1 = {
+		potential = {
+			OR = {
+				tag = D03
+			}
+		}
+		allow = {
+
+			ai = no
+		}
+		effect = {
+
+			country_event = { id = sonntag_mp.2 }
+			name = "sonntag_mp.2_menu"
+			desc = "sonntag_mp.2_menu_desc"
+		}
+
+		ai_will_do = {
+
+			factor = 0
+		}
+	}
+## AAR-Belohnungsmenu
+	sp_belohnung_2 = {
+		potential = {
+			OR = {
+				tag = D03
+			}
+		}
+		allow = {
+
+			ai = no
+		}
+		effect = {
+
+			country_event = { id = sonntag_mp.3 }
+			name = "sonntag_mp.3_menu"
+			desc = "sonntag_mp.3_menu_desc"
+		}
+
+		ai_will_do = {
+
+			factor = 0
+		}
+	}
+
+}
