@@ -17,41 +17,13 @@ country_event = {
 
 	is_triggered_only = yes
 
-	option = { #Orden der heiligen Gans
+	option = {
 		name = "sonntag_mp.21"
-			D00 = {	country_event = { id = sonntag_mp.151 }	}
+			FRA = {	country_event = { id = sonntag_mp.151 }	}
 			}
-	option = { #Warängir
+	option = {
 		name = "sonntag_mp.22"
-			D01 = {	country_event = { id = sonntag_mp.151 }	}
-			}
-	option = { #Homerion
-		name = "sonntag_mp.23"
-			D02 = {	country_event = { id = sonntag_mp.151 }	}
-			}
-	option = { #Mordor
-		name = "sonntag_mp.24"
-			D03 = {	country_event = { id = sonntag_mp.151 }	}
-			}
-	option = { #Nilfgaard
-		name = "sonntag_mp.25"
-			D04 = {	country_event = { id = sonntag_mp.151 }	}
-			}
-	option = { #Sebulonia
-		name = "sonntag_mp.26"
-			D06 = {	country_event = { id = sonntag_mp.151 }	}
-			}
-	option = { #Allemannia
-		name = "sonntag_mp.27"
-			D07 = {	country_event = { id = sonntag_mp.151 }	}
-			}
-	option = { #Beira
-		name = "sonntag_mp.28"
-			D08 = {	country_event = { id = sonntag_mp.151 }	}
-			}
-	option = { #Malopolska
-		name = "sonntag_mp.29"
-			MPK = {	country_event = { id = sonntag_mp.151 }	}
+			HAB = {	country_event = { id = sonntag_mp.151 }	}
 			}
 		option = {
 		name = "sonntag_mp.50"
@@ -70,95 +42,19 @@ country_event = {
 	picture = POPE_PREACHING_eventPicture
 	is_triggered_only = yes
 
-	option = { #Orden der heiligen Gans
+	option = {
 		name = "sonntag_mp.21"
-			D00 = {	country_event = { id = sonntag_mp.111 }	}
+			FRA = {	country_event = { id = sonntag_mp.111 }	}
 			}
-	option = { #Warängir
+	option = {
 		name = "sonntag_mp.22"
-			D01 = {	country_event = { id = sonntag_mp.111 }	}
-			}
-	option = { #Homerion
-		name = "sonntag_mp.23"
-			D02 = {	country_event = { id = sonntag_mp.111 }	}
-			}
-	option = { #Mordor
-		name = "sonntag_mp.24"
-			D03 = {	country_event = { id = sonntag_mp.111 }	}
-			}
-	option = { #Nilfgaard
-		name = "sonntag_mp.25"
-			D04 = {	country_event = { id = sonntag_mp.111 }	}
-			}
-	option = { #Sebulonia
-		name = "sonntag_mp.26"
-			D06 = {	country_event = { id = sonntag_mp.111 }	}
-			}
-	option = { #Allemannia
-		name = "sonntag_mp.27"
-			D07 = {	country_event = { id = sonntag_mp.111 }	}
-			}
-	option = { #Beira
-		name = "sonntag_mp.28"
-			D08 = {	country_event = { id = sonntag_mp.111 }	}
-			}
-	option = { #Malopolska
-		name = "sonntag_mp.29"
-			MPK = {	country_event = { id = sonntag_mp.111 }	}
+			HAB = {	country_event = { id = sonntag_mp.111 }	}
 			}
 	option = {
 		name = "sonntag_mp.51"
 		}
 	}
 
-country_event = {
-
-	id = sonntag_mp.3
-	title = sonntag_mp.56
-	desc = sonntag_mp.57
-	picture = POPE_PREACHING_eventPicture
-	is_triggered_only = yes
-
-	option = { #Orden der heiligen Gans
-		name = "sonntag_mp.21"
-			D00 = {	country_event = { id = sonntag_mp.121 }	}
-			}
-	option = { #Warängir
-		name = "sonntag_mp.22"
-			D01 = {	country_event = { id = sonntag_mp.121 }	}
-			}
-	option = { #Homerion
-		name = "sonntag_mp.23"
-			D02 = {	country_event = { id = sonntag_mp.121 }	}
-			}
-	option = { #Mordor
-		name = "sonntag_mp.24"
-			D03 = {	country_event = { id = sonntag_mp.121 }	}
-			}
-	option = { #Nilfgaard
-		name = "sonntag_mp.25"
-			D04 = {	country_event = { id = sonntag_mp.121 }	}
-			}
-	option = { #Sebulonia
-		name = "sonntag_mp.26"
-			D06 = {	country_event = { id = sonntag_mp.121 }	}
-			}
-	option = { #Allemannia
-		name = "sonntag_mp.27"
-			D07 = {	country_event = { id = sonntag_mp.121 }	}
-			}
-	option = { #Beira
-		name = "sonntag_mp.28"
-			D08 = {	country_event = { id = sonntag_mp.121 }	}
-			}
-	option = { #Malopolska
-		name = "sonntag_mp.29"
-			MPK = {	country_event = { id = sonntag_mp.121 }	}
-			}
-	option = {
-		name = "sonntag_mp.51"
-		}
-	}
 ##########################################
 #### Strafen & Belohnungen
 ##########################################
@@ -208,23 +104,6 @@ country_event = {
 
 	}
 
-country_event = {
-
-	id = sonntag_mp.121 #AAR-Belohnung
-	title = sonntag_mp.122
-	desc = sonntag_mp.123
-	picture = POPE_PREACHING_eventPicture
-
-	is_triggered_only = yes
-
-	option = {
-		name = "sonntag_mp.12"
-		add_country_modifier = {
-			name = "aar_belohnung"
-			duration = 3650
-			}
-	}
-}
 
 country_event = {
 
@@ -243,6 +122,6 @@ country_event = {
 		add_mil_power = -50
 		add_adm_power = -50
 		add_dip_power = -50
-		}
-
 	}
+
+}

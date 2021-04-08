@@ -1,39 +1,20 @@
 ﻿l_german:
- aar_belohnung:0 "AAR-Belohnung"
 
  sp_entscheidung_title: "Spielleiter Strafen"
  sp_entscheidung_desc: "Machtmissbrauch leicht gemacht!"
 
- sonntag_mp.1_menu: "Spielleiter Strafen"
- sonntag_mp.1_menu_desc: "Geben wir ihnen was sie verdienen!"
  sonntag_mp.52: "Bestrafungsmenü"
  sonntag_mp.53: "Das ausgewählte Land bekommt eine einfache Strafe zugeteilt. Das wäre ein Abzug von 1 Stabilität, 10 prestige und 0.3 Jahreseinnahmen."
 
  sp_belohnung_1_title: "Pünktlichkeits-Belohnungen"
  sp_belohnung_1_desc: "Zuckerbrot und Peitsche!"
 
- sonntag_mp.2_menu: "Pünktlichkeitsbelohnungen"
- sonntag_mp.2_menu_desc: "Geben wir ihnen was sie verdienen! 1"
-
  sonntag_mp.54: "Pünktlichkeits-Belohnungsmenü"
  sonntag_mp.55: "Das ausgewählte Land bekommt eine Pünktlichkeitsbelohnung zugeteilt."
-
- sp_belohnung_2_title: "AAR-Belohnungen"
- sp_belohnung_2_desc: "Ob ihr wollt oder nicht!"
-
- sonntag_mp.3_menu: "AAR-Belohnungen 1"
- sonntag_mp.3_menu_desc: "Geben wir ihnen was sie verdienen! 1"
-
- sonntag_mp.56: "AAR-Belohnungsmenü"
- sonntag_mp.57: "Das ausgewählte Land bekommt eine AAR-Belohnung zugeteilt."
 
  sonntag_mp.112: "Ein Staatsbankrott ist keine Lösung! (1x)"
  sonntag_mp.113: "Pünktlichkeit ist die halbe Miete!"
  sonntag_mp.11: "Sicher?!"
-
- sonntag_mp.122: "Anerkennung für die AAR-Beiträge!"
- sonntag_mp.123: "Ansehen für unsere Forums-Autoren!"
- sonntag_mp.12: "Sicher?!"
 
  sonntag_mp.152: "Bestrafung!"
  sonntag_mp.153: "Ihr seid nun beinahe Bankrott gegangen. Was auch immer ihr getan habt. Tut dies nie wieder!"
@@ -46,12 +27,5 @@
  sonntag_mp.50: "Keine Bestrafung"
  sonntag_mp.51: "Keine Belohnung"
 
- sonntag_mp.21: "Orden der heiligen Gans"
- sonntag_mp.22: "Warängir"
- sonntag_mp.23: "Homerion"
- sonntag_mp.24: "Mordor"
- sonntag_mp.25: "Nilfgaard"
- sonntag_mp.26: "Sebulonia"
- sonntag_mp.27: "Allemannia"
- sonntag_mp.28: "Beira"
- sonntag_mp.29: "Malopolska"
+ sonntag_mp.21: "Frankreich"
+ sonntag_mp.22: "Österreich"
