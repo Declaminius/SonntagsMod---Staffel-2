@@ -1,1 +1,466 @@
+condo_Tech_12 = {
+	potential = {
+
+		dip_tech = 12
+		NOT = {
+		dip_tech = 13
+
+		}
+	}
+	trigger = {
+
+		dip_tech = 12
+		NOT = {
+		dip_tech = 13
+
+		}
+	}
+
+	possible_condottieri = 0.1
+}
+
+condo_Tech_13 = {
+	potential = {
+
+		dip_tech = 13
+		NOT = {
+		dip_tech = 14
+
+		}
+	}
+	trigger = {
+
+		dip_tech = 13
+		NOT = {
+		dip_tech = 14
+
+		}
+	}
+
+	possible_condottieri = 0.2
+}
+
+condo_Tech_14 = {
+	potential = {
+
+		dip_tech = 14
+		NOT = {
+		dip_tech = 15
+
+		}
+	}
+	trigger = {
+
+		dip_tech = 14
+		NOT = {
+		dip_tech = 15
+
+		}
+	}
+
+	possible_condottieri = 0.4
+}
+
+condo_Tech_15 = {
+	potential = {
+
+		dip_tech = 15
+		NOT = {
+		dip_tech = 16
+
+		}
+	}
+	trigger = {
+
+		dip_tech = 15
+		NOT = {
+		dip_tech = 16
+
+		}
+	}
+
+	possible_condottieri = 0.6
+}
+
+condo_Tech_16 = {
+	potential = {
+
+		dip_tech = 16
+		NOT = {
+		dip_tech = 17
+
+		}
+	}
+	trigger = {
+
+		dip_tech = 16
+		NOT = {
+		dip_tech = 17
+
+		}
+	}
+
+	possible_condottieri = 0.8
+}
+
+condo_Tech_17 = {
+	potential = {
+
+		dip_tech = 17
+		NOT = {
+		dip_tech = 18
+
+		}
+	}
+	trigger = {
+
+		dip_tech = 17
+		NOT = {
+		dip_tech = 18
+
+		}
+	}
+
+	possible_condottieri = 1.05
+}
+
+condo_Tech_18 = {
+	potential = {
+
+		dip_tech = 18
+		NOT = {
+		dip_tech = 19
+
+		}
+	}
+	trigger = {
+
+		dip_tech = 18
+		NOT = {
+		dip_tech = 19
+
+		}
+	}
+
+	possible_condottieri = 1.3
+}
+
+condo_Tech_19 = {
+	potential = {
+
+		dip_tech = 19
+		NOT = {
+		dip_tech = 20
+
+		}
+	}
+	trigger = {
+
+		dip_tech = 19
+		NOT = {
+		dip_tech = 20
+
+		}
+	}
+
+	possible_condottieri = 1.55
+}
+
+condo_Tech_20 = {
+	potential = {
+
+		dip_tech = 20
+		NOT = {
+		dip_tech = 21
+
+		}
+	}
+	trigger = {
+
+		dip_tech = 20
+		NOT = {
+		dip_tech = 21
+
+		}
+	}
+
+	possible_condottieri = 2.05
+}
+
+condo_Tech_21 = {
+	potential = {
+
+		dip_tech = 21
+		NOT = {
+		dip_tech = 22
+
+		}
+	}
+	trigger = {
+
+		dip_tech = 21
+		NOT = {
+		dip_tech = 22
+
+		}
+	}
+
+	possible_condottieri = 2.75
+}
+
+condo_Tech_22 = {
+	potential = {
+
+		dip_tech = 22
+		NOT = {
+		dip_tech = 23
+
+		}
+	}
+	trigger = {
+
+		dip_tech = 22
+		NOT = {
+		dip_tech = 23
+
+		}
+	}
+
+	possible_condottieri = 3.5
+}
+
+condo_Tech_23 = {
+	potential = {
+
+		dip_tech = 23
+		NOT = {
+		dip_tech = 24
+
+		}
+	}
+	trigger = {
+
+		dip_tech = 23
+		NOT = {
+		dip_tech = 24
+
+		}
+	}
+
+	possible_condottieri = 4.3
+}
+
+condo_Tech_24 = {
+	potential = {
+
+		dip_tech = 24
+		NOT = {
+		dip_tech = 25
+
+		}
+	}
+	trigger = {
+
+		dip_tech = 24
+		NOT = {
+		dip_tech = 25
+
+		}
+	}
+
+	possible_condottieri = 5.15
+}
+
+condo_Tech_25 = {
+	potential = {
+
+		dip_tech = 25
+		NOT = {
+		dip_tech = 26
+
+		}
+	}
+	trigger = {
+
+		dip_tech = 25
+		NOT = {
+		dip_tech = 26
+
+		}
+	}
+
+	possible_condottieri = 6.05
+}
+
+condo_Tech_26 = {
+	potential = {
+
+		dip_tech = 26
+		NOT = {
+		dip_tech = 27
+
+		}
+	}
+	trigger = {
+
+		dip_tech = 26
+		NOT = {
+		dip_tech = 27
+
+		}
+	}
+
+	possible_condottieri = 7.05
+}
+
+condo_Tech_27 = {
+	potential = {
+
+		dip_tech = 27
+		NOT = {
+		dip_tech = 28
+
+		}
+	}
+	trigger = {
+
+		dip_tech = 27
+		NOT = {
+		dip_tech = 28
+
+		}
+	}
+
+	possible_condottieri = 7.95
+}
+
+condo_Tech_28 = {
+	potential = {
+
+		dip_tech = 28
+		NOT = {
+		dip_tech = 29
+
+		}
+	}
+	trigger = {
+
+		dip_tech = 28
+		NOT = {
+		dip_tech = 29
+
+		}
+	}
+
+	possible_condottieri = 8.75
+}
+
+condo_Tech_29 = {
+	potential = {
+
+		dip_tech = 29
+		NOT = {
+		dip_tech = 30
+
+		}
+	}
+	trigger = {
+
+		dip_tech = 29
+		NOT = {
+		dip_tech = 30
+
+		}
+	}
+
+	possible_condottieri = 9.45
+}
+
+condo_Tech_30 = {
+	potential = {
+
+		dip_tech = 30
+		NOT = {
+		dip_tech = 31
+
+		}
+	}
+	trigger = {
+
+		dip_tech = 30
+		NOT = {
+		dip_tech = 31
+
+		}
+	}
+
+	possible_condottieri = 10.15
+}
+
+condo_Tech_31 = {
+	potential = {
+
+		dip_tech = 31
+		NOT = {
+		dip_tech = 32
+
+		}
+	}
+	trigger = {
+
+		dip_tech = 31
+		NOT = {
+		dip_tech = 32
+
+		}
+	}
+
+	possible_condottieri = 10.85
+}
+
+condo_Tech_32 = {
+	potential = {
+
+		dip_tech = 32
+		NOT = {
+		dip_tech = 33
+
+		}
+	}
+	trigger = {
+
+		dip_tech = 32
+		NOT = {
+		dip_tech = 33
+
+		}
+	}
+
+	possible_condottieri = 11.55
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
