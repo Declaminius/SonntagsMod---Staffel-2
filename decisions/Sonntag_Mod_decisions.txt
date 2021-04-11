@@ -9,7 +9,7 @@ country_decisions = {
 	sp_entscheidung = {
 		potential = {
 			OR = {
-				tag = HAB
+				tag = D00
 			}
 		}
 		allow = {
@@ -31,7 +31,7 @@ country_decisions = {
 	sp_belohnung_1 = {
 		potential = {
 			OR = {
-				tag = HAB
+				tag = D00
 			}
 		}
 		allow = {

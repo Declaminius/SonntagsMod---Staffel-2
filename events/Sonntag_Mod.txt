@@ -1,4 +1,4 @@
-##########################################
+﻿##########################################
 #### Willkommen zu den tollen Events des Sonntags-MP!
 ##########################################
 
@@ -19,13 +19,53 @@ country_event = {
 
 	option = {
 		name = "sonntag_mp.21"
-			FRA = {	country_event = { id = sonntag_mp.151 }	}
+			D00 = {	country_event = { id = sonntag_mp.151 }	}
 			}
 	option = {
 		name = "sonntag_mp.22"
-			HAB = {	country_event = { id = sonntag_mp.151 }	}
+			D01 = {	country_event = { id = sonntag_mp.151 }	}
 			}
-		option = {
+	option = {
+		name = "sonntag_mp.23"
+			D02 = {	country_event = { id = sonntag_mp.151 }	}
+			}
+	option = {
+		name = "sonntag_mp.24"
+			D03 = {	country_event = { id = sonntag_mp.151 }	}
+			}
+	option = {
+		name = "sonntag_mp.25"
+			D04 = {	country_event = { id = sonntag_mp.151 }	}
+			}
+	option = {
+		name = "sonntag_mp.26"
+			D05 = {	country_event = { id = sonntag_mp.151 }	}
+			}
+	option = {
+		name = "sonntag_mp.27"
+			D06 = {	country_event = { id = sonntag_mp.151 }	}
+			}
+	option = {
+		name = "sonntag_mp.28"
+			D07 = {	country_event = { id = sonntag_mp.151 }	}
+			}
+	option = {
+		name = "sonntag_mp.29"
+			D08 = {	country_event = { id = sonntag_mp.151 }	}
+			}
+	option = {
+		name = "sonntag_mp.30"
+			D09 = {	country_event = { id = sonntag_mp.151 }	}
+			}
+	option = {
+		name = "sonntag_mp.31"
+			D10 = {	country_event = { id = sonntag_mp.151 }	}
+			}
+	option = {
+		name = "sonntag_mp.32"
+			D11 = {	country_event = { id = sonntag_mp.151 }	}
+			}
+	option = {
 		name = "sonntag_mp.50"
 		}
 }
@@ -44,11 +84,51 @@ country_event = {
 
 	option = {
 		name = "sonntag_mp.21"
-			FRA = {	country_event = { id = sonntag_mp.111 }	}
+			D00 = {	country_event = { id = sonntag_mp.111 }	}
 			}
 	option = {
 		name = "sonntag_mp.22"
-			HAB = {	country_event = { id = sonntag_mp.111 }	}
+			D01 = {	country_event = { id = sonntag_mp.111 }	}
+			}
+	option = {
+		name = "sonntag_mp.23"
+			D02 = {	country_event = { id = sonntag_mp.111 }	}
+			}
+	option = {
+		name = "sonntag_mp.24"
+			D03 = {	country_event = { id = sonntag_mp.111 }	}
+			}
+	option = {
+		name = "sonntag_mp.25"
+			D04 = {	country_event = { id = sonntag_mp.111 }	}
+			}
+	option = {
+		name = "sonntag_mp.26"
+			D05 = {	country_event = { id = sonntag_mp.111 }	}
+			}
+	option = {
+		name = "sonntag_mp.27"
+			D06 = {	country_event = { id = sonntag_mp.111 }	}
+			}
+	option = {
+		name = "sonntag_mp.28"
+			D07 = {	country_event = { id = sonntag_mp.111 }	}
+			}
+	option = {
+		name = "sonntag_mp.29"
+			D08 = {	country_event = { id = sonntag_mp.111 }	}
+			}
+	option = {
+		name = "sonntag_mp.30"
+			D09 = {	country_event = { id = sonntag_mp.111 }	}
+			}
+	option = {
+		name = "sonntag_mp.31"
+			D10 = {	country_event = { id = sonntag_mp.111 }	}
+			}
+	option = {
+		name = "sonntag_mp.32"
+			D11 = {	country_event = { id = sonntag_mp.111 }	}
 			}
 	option = {
 		name = "sonntag_mp.51"
