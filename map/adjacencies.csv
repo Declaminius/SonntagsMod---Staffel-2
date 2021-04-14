@@ -102,6 +102,7 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;Comment
 4745;47;sea;1257;3013;1607;3012;1606;R�gen-Stralsund
 2994;48;sea;1257;-1;-1;-1;-1;Wolgast-Kolberg
 87;235;sea;1271;-1;-1;-1;-1;Calais-Kent
+170;233;sea;1272;-1;-1;-1;-1;Bretagne-GB
 2473;126;sea;1305;-1;-1;-1;-1;Nordafrika-Malta
 126;2982;sea;1305;-1;-1;-1;-1;Malta-Sizilien
 -1;-1;;-1;-1;-1;-1;-1;-1;
